@@ -624,6 +624,8 @@ color:#fff;
   border-radius: 40px;
   overflow: hidden;
   border: 5px round #F6CC07;
+  position: relative;
+  overflow: hidden;
 }
 #our-team .team-member .team-info { 
   background: #FFFFFF;
